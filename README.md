@@ -2,7 +2,7 @@
 
 # Welcome!🌴👩🏽‍💻☁️ 
 
-<img src="eriimango.GIF" alt="erii engineer gif banner">
+<img src="eriimango-white.GIF" alt="erii engineer gif banner">
 <pre style="color:white;">
 1  <b>Ericka Bolta</b> {<br>
 2      <em>//  i love to build and create things.</em><br>
