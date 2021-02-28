@@ -1,7 +1,9 @@
-### 🌴👩🏽‍💻☁️ 
+<body style="background-color:black;">
 
-<---include my intro image-->
-<pre>
+# Welcome!🌴👩🏽‍💻☁️ 
+
+<img src="eriimango.GIF" alt="erii engineer gif banner">
+<pre style="color:white;">
 1  <b>Ericka Bolta</b> {<br>
 2      <em>//  i love to build and create things.</em><br>
 3     <em>// my goal is to use my creative and tech skills to impact my community.</em><br>
@@ -28,3 +30,4 @@
 24<br>
 25   }<br>
 </pre>
+</body>
