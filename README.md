@@ -1,29 +1,30 @@
 ### 🌴👩🏽‍💻☁️ 
 
 <---include my intro image-->
-
-1  <b><h3>Ericka Bolta</b></h3> {
-2      <em>//  i love to build and create things. 
-3         // my goal is to use my creative and tech skills to impact my community.</em>
+<pre>
+1  <b>Ericka Bolta</b> {<br>
+2      <em>//  i love to build and create things.</em><br>
+3     <em>// my goal is to use my creative and tech skills to impact my community.</em><br>
 4
-5     <b>About</b> { 
-6           college student = BS CS ( software engineering);
-7           pending MS ISTM (FAU);
-8           loves (beach, track, cooking);
-9           location (miami, Fl);
-10       }
+5     <b>About</b> {<br> 
+6           college student = BS CS ( software engineering);<br>
+7           pending MS ISTM (FAU);<br>
+8           loves (beach, track, cooking);<br>
+9           location (miami, Fl);<br>
+10       }<br>
 11
-12    <b>Intrest</b> {
-13           cloud computing;
-14           ioT;
-15           ux/ui design;
-16           full stack sevelopment;
-17       }
-18
-19    <b>Skills</b> {
-20            c++, java, phython;
-21            application development;
-22            HTML/CSS;
-23       }
-24
-25   }
+12    <b>Intrest</b> {<br>
+13           cloud computing;<br>
+14           ioT;<br>
+15           ux/ui design;<br>
+16           full stack sevelopment;<br>
+17       }<br>
+18<br>
+19    <b>Skills</b> {<br>
+20            c++, java, phython;<br>
+21            application development;<br>
+22            HTML/CSS;<br>
+23       }<br>
+24<br>
+25   }<br>
+</pre>
