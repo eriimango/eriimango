@@ -23,7 +23,7 @@
 17       }<br>
 18<br>
 19    <b>Skills</b> {<br>
-20            c++, java, phython;<br>
+20            c++, java, python;<br>
 21            application development;<br>
 22            HTML/CSS;<br>
 23       }<br>
