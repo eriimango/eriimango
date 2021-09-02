@@ -10,7 +10,7 @@
 4
 5     <b>About</b> {<br> 
 6           college student = BS CS ( software engineering);<br>
-7           pending MS ISTM (FAU);<br>
+7           pending MS ISTM - Data Science Engineering (FAU);<br>
 8           loves (beach, track, cooking);<br>
 9           location (miami, Fl);<br>
 10       }<br>
@@ -19,11 +19,11 @@
 13           cloud computing;<br>
 14           ioT;<br>
 15           ux/ui design;<br>
-16           full stack sevelopment;<br>
+16           full stack development;<br>
 17       }<br>
 18<br>
 19    <b>Skills</b> {<br>
-20            c++, java, python;<br>
+20            c++, java, python, C, MATLAB;<br>
 21            application development;<br>
 22            HTML/CSS;<br>
 23       }<br>
