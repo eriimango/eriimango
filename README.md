@@ -3,7 +3,7 @@
 # Welcome!🌴👩🏽‍💻☁️ 
 
 <img src="eriimango-vector.GIF" alt="erii engineer gif banner">
-<pre style="color:white;">
+<pre style="color:babyblue;">
 1  <b>Ericka Bolta</b> {<br>
 2      <em>//  i love to build and create things.</em><br>
 3     <em>// my goal is to use my creative and tech skills to impact my community.</em><br>
@@ -16,7 +16,7 @@
 10       }<br>
 11
 12    <b>Intrest</b> {<br>
-13           cloud computing;<br>
+13           Data Science(ML);<br>
 14           ioT;<br>
 15           ux/ui design;<br>
 16           full stack development;<br>
