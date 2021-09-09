@@ -1,12 +1,11 @@
-<body style="background-color:black;">
-
-# Welcome!🌴👩🏽‍💻☁️ 
-
-<img src="eriimango-vector.GIF" alt="erii engineer gif banner">
+<body style="background-color:navy;"> 
 <pre style="color:babyblue;">
-1  <b>Ericka Bolta</b> {<br>
+1  <b>Ericka Bolta 🌴👩🏽‍💻☁️</b> {<br>
 2      <em>//  i love to build and create things.</em><br>
 3     <em>// my goal is to use my creative and tech skills to impact my community.</em><br>
+<br>
+<img src="eriimango-vector.GIF" alt="erii engineer gif banner">
+<br>
 4
 5     <b>About</b> {<br> 
 6           college student = BS CS ( software engineering);<br>
