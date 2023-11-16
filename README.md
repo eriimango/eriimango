@@ -13,7 +13,7 @@
 10       }<br>
 11
 12    <b>Intrest</b> {<br>
-13           Data Science(ML);<br>
+13           Data Science(ML, AI);<br>
 14           ioT;<br>
 15           ux/ui design;<br>
 16           full stack development;<br>
