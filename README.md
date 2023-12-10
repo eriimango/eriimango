@@ -6,8 +6,8 @@
 3     <em>// my goal is to use my creative and tech skills to impact my community.</em><br>
 4
 5     <b>About</b> {<br> 
-6           college student = BS CS ( software engineering);<br>
-7           pending MS ISTM - Data Science Engineering (FAU);<br>
+6           college student = BS CS ( software engineering) minor (Cloud Computing);<br>
+7           MS ISTM - Data Science + Engineering (FAU);<br>
 8           loves (beach, track, cooking);<br>
 9           location (miami, Fl);<br>
 10       }<br>
@@ -22,9 +22,10 @@
 19    <b>Skills</b> {<br>
 20            c++, java, python, C, MATLAB;<br>
 21            application development;<br>
-22            HTML/CSS;<br>
-23       }<br>
-24<br>
-25   }<br>
+22            cloud computing;<br>
+23            machine learning;<br>
+24       }<br>
+25<br>
+26   }<br>
 </pre>
 </body>
