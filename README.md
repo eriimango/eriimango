@@ -1,8 +1,8 @@
 <h2 align="center"> Hola 👋 I'm Ericka </h2>
 
 🔭 I enjoy creating micro-applications and infusing everything with Gen AI\
-📍 I’m working on C#, Swift/IOS development, Security+, and improving problem solving and development skills\
-🌱 I’m looking to collaborate on anything having an impact
+🌱 I’m working on C#, Swift/IOS development, Security+, and improving problem solving and development skills\
+🤝 I’m looking to collaborate on anything having an impact
 
 🌟 Cool Fact: My first role out of college ➙ Amazon Web Services(AWS) as an SDE I on the S3 service side!
 
